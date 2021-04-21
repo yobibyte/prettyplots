@@ -1,7 +1,5 @@
 # prettyplots
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epifanio/prettyplots/master?filepath=prettyplots.ipynb)
-
 Design your own matplotlib stylefile interactively
 
 Tired of playing font sizes and other matplotlib parameters every time you start a new project or write a new plotting function? 
@@ -22,3 +20,6 @@ Add this to your code to use the stylefile:
 plt.style.use('./prettyplots.mplstyle')
 ```
 
+### You can try this remotely using Binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epifanio/prettyplots/master?filepath=prettyplots.ipynb)
