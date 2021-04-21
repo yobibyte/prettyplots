@@ -2,7 +2,8 @@
 
 Design your own matplotlib stylefile interactively
 
-Tired of playing font sizes and other matplotlib parameters every time you start a new project or write a new plotting function? 
+Tired of playing with font sizes and other matplotlib parameters every time you start a new project or write a new plotting function?
+Want all you plots have the same style?
 Use [matplotlib configuration files](https://matplotlib.org/devdocs/tutorials/introductory/customizing.html)!
 
 Great! But how do I set them up?
